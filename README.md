@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Theodore-oo
+- 👋 Hi, I’m @Theodore
 - 👀 I’m interested in ...Web development
 - 🌱 I’m currently learning ...Web development
 
